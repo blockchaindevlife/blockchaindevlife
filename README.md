@@ -1,8 +1,8 @@
 ### About Me:
 - 😘 Hi, I’m @James@, an well-versed full stack web / blockchain developer with 15+ years of experience.
 - 👀 Software Engineering & Crypto World are the most favorite & eager part.
-- 💫 I’m focusing on Smart Contract & Decentralize Application development using Solidity, Rust, and web3.js / ethers.js.
-- 💞️ I’m looking to belong to peer group with awesome guys!
+- 💫 Focusing on Smart Contract & Decentralize Application development using Solidity, Rust, and web3.js / ethers.js.
+- 💞️ Looking to belong to peer group with awesome guys!
 
 ### Languages
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/blockchaindevlife/)
